@@ -13,7 +13,7 @@ const persona = {
 		gestion: ['Liderazgo, ','Evaluación de Proyectos, ','Responsabilidad, '],
 		tecnicas: ['Soldador Smaw y mig, ','Operario integral en instalaciones electricas domiciliarias, ']
 	},
-	hobbies: ['Escuchar Música, ', 'Ver Peliculas, ', 'Tocar Guitarra, ', 'Jugar soccer']
+	hobbies: ['Escuchar Música, ', 'Ver Peliculas, ', 'Tocar Guitarra, ', 'Jugar soccer','bailar']
 }
 
 // Dejar intácto a partir de aquí.
