@@ -13,12 +13,14 @@ const persona = {
 		gestion: ['Liderazgo, ','Evaluación de Proyectos, ','Responsabilidad, '],
 		tecnicas: ['Soldador Smaw y mig, ','Operario integral en instalaciones electricas domiciliarias, ']
 	},
-	hobbies: ['Escuchar Música, ', 'Ver Peliculas, ', 'Tocar Guitarra, ', 'Jugar soccer']
+	hobbies: ['Escuchar Música, ', 'Ver Peliculas, ', 'Tocar Guitarra, ', 'Jugar soccer','bailar']
 }
 
 // Dejar intácto a partir de aquí.
 // Constantes SENA:
-const banner = "https://3.bp.blogspot.com/-TkVKyVxdxgQ/U2kGFcBl3LI/AAAAAAAABVo/zrDM3ittaz0/s1600/Banner+Soy+Cultura+SENA+-+CTMA.png";
+const banner = "https://programacion1class.files.wordpress.com/2015/03/e9788-paradigmasdeprogramacic3b3nv-programacic3b3nfuncional.jpg?w=700";
+//const banner = "https://3.bp.blogspot.com/-TkVKyVxdxgQ/U2kGFcBl3LI/AAAAAAAABVo/zrDM3ittaz0/s1600/Banner+Soy+Cultura+SENA+-+CTMA.png";
+
 // Mostramos el objeto persona en la consola:
 console.log(persona);
 
