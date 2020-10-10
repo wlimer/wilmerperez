@@ -18,7 +18,7 @@ const persona = {
 
 // Dejar intácto a partir de aquí.
 // Constantes SENA:
-const banner = "https://programacion1class.files.wordpress.com/2015/03/e9788-paradigmasdeprogramacic3b3nv-programacic3b3nfuncional.jpg?w=700";
+const banner = "https://www.itchronicles.com/wp-content/uploads/2018/10/bigstock-Programming-Web-Banner-Best-P-258081862.jpg";
 //const banner = "https://3.bp.blogspot.com/-TkVKyVxdxgQ/U2kGFcBl3LI/AAAAAAAABVo/zrDM3ittaz0/s1600/Banner+Soy+Cultura+SENA+-+CTMA.png";
 
 // Mostramos el objeto persona en la consola:
